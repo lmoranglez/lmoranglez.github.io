@@ -5,39 +5,39 @@ title: Conferences
 
 ### Conference Organization and Volunteer Experience
 
-- 2025 | Leader crew Volunteer of Congress of the World Association of Theoretical and Computational Chemists (WATOC)
+- 2025 | Leader crew Volunteer of Congress of the World Association of Theoretical and Computational Chemists (WATOC)<br><br>
 - 2021 | Organizer of the V ICIQ PhD Day, Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
 
 ### Conference Participation
 
-- 2025 | **Poster Presentation**, Congress of the World Association of Theoretical and Computational Chemists (WATOC), Oslo, Norway
-  Accelerating the Discovery of Promising Bifunctional Catalysts for Hydrogenation Reactions
+- 2025 | **Poster Presentation**, Congress of the World Association of Theoretical and Computational Chemists (WATOC), Oslo, Norway<br>
+Accelerating the Discovery of Promising Bifunctional Catalysts for Hydrogenation Reactions
 
-- 2024 | **Oral Communication**, Electronic Structure Principles and Applications (ESPA), Tarragona, Spain
+- 2024 | **Oral Communication**, Electronic Structure Principles and Applications (ESPA), Tarragona, Spain<br>
 Seeking Promising Bifunctional Catalysts for CO2 Hydrogenation Using Active Learning
 
-- 2024 | **Oral Communication**, Annual Meeting Nordic Consortium for CO2 Conversion, Granavollen, Norway
+- 2024 | **Oral Communication**, Annual Meeting Nordic Consortium for CO2 Conversion, Granavollen, Norway<br>
 Exploring Bifunctional Catalysts for CO2 Hydrogenation Through Active Learning Techniques
 
-- 2023 | **Poster Presentation**, ICIQ School, Tarragona, Spain
-Unveiling Optimal Descriptors: A new Data-Driven Tool for Understanding and Predicting Organic Processes
+- 2023 | **Poster Presentation**, ICIQ School, Tarragona, Spain<br>
+Unveiling Optimal Descriptors: A new Data-Driven Tool for Understanding and Predicting Organic Processes 
 
-- 2023 | **Oral Communication**, ACS Fall 2023, San Francisco, United States 
+- 2023 | **Oral Communication**, ACS Fall 2023, San Francisco, United States<br>
 Identification of optimal descriptors as a data-driven tool in the comprehension and prediction of organic processes
 
-- 2023 | **Flash Communication and Poster Presentation**, 1ª Reunió de Química Teòrica i Computational (RQTC) of the Societat Catalana de Química (SCQ), Barcelona, Spain
+- 2023 | **Flash Communication and Poster Presentation**, 1ª Reunió de Química Teòrica i Computational (RQTC) of the Societat Catalana de Química (SCQ), Barcelona, Spain<br>
 Development of Novel Descriptors for Chemical Phenomena
 
-- 2022 | **Flash Communication**, Hylleraas Annual Meeting, Klækken, Norway
+- 2022 | **Flash Communication**, Hylleraas Annual Meeting, Klækken, Norway<br>
 Accurate Energetic-Based Descriptors for Nucleophiles 
 
-- 2022 | **Flash Communication**, XXXVIII Biennial Meeting of the Spanish Royal Society of Chemistry (RSEQ), Granada, Spain
+- 2022 | **Flash Communication**, XXXVIII Biennial Meeting of the Spanish Royal Society of Chemistry (RSEQ), Granada, Spain<br>
 Accurate Energetic-Based Descriptors for Nucleophiles
 
-- 2020 | **Online Poster Presentation**, IV ICIQ PhD Day, Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
+- 2020 | **Online Poster Presentation**, IV ICIQ PhD Day, Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain<br>
 Elucidating the Hidden Descriptors of SN2@C reaction in solution 
 
-- 2020 | **Attendance** at 3rd HC3A Meeting, University of Toulouse, France
-- 2019 | **Attendance** at XXXV Annual Meeting of Reference Network in Theoretical and Computational Chemistry, University of Barcelona, Spain
+- 2020 | **Attendance** at 3rd HC3A Meeting, University of Toulouse, France<br><br>
+- 2019 | **Attendance** at XXXV Annual Meeting of Reference Network in Theoretical and Computational Chemistry, University of Barcelona, Spain<br><br>
 - 2019 | **Attendance** at III ICIQ PhD Day, Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
 
