@@ -5,9 +5,9 @@ title: Conferences
 
 ### Conference Organization and Volunteer Experience
 
-- 2025 | Leader crew Volunteer of Congress of the World Association of Theoretical and Computational Chemists (WATOC)
+2025 | Leader crew Volunteer of Congress of the World Association of Theoretical and Computational Chemists (WATOC)
 
-- 2021 | Organizer of the V ICIQ PhD Day, Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
+2021 | Organizer of the V ICIQ PhD Day, Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
 
 ### Conference Participation
 
