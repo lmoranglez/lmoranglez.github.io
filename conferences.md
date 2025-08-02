@@ -5,9 +5,8 @@ title: Conferences
 
 ### Conference Organization and Volunteer Experience
 
-2025 | Leader crew Volunteer of Congress of the World Association of Theoretical and Computational Chemists (WATOC)
-
-2021 | Organizer of the V ICIQ PhD Day, Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
+- 2025 | Leader crew Volunteer of Congress of the World Association of Theoretical and Computational Chemists (WATOC)
+- 2021 | Organizer of the V ICIQ PhD Day, Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
 
 ### Conference Participation
 
@@ -39,8 +38,6 @@ Accurate Energetic-Based Descriptors for Nucleophiles
 Elucidating the Hidden Descriptors of SN2@C reaction in solution 
 
 - 2020 | **Attendance** at 3rd HC3A Meeting, University of Toulouse, France
-
 - 2019 | **Attendance** at XXXV Annual Meeting of Reference Network in Theoretical and Computational Chemistry, University of Barcelona, Spain
-
 - 2019 | **Attendance** at III ICIQ PhD Day, Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
 
