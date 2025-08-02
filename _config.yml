@@ -21,7 +21,8 @@ author: Lucía Morán González
 
 navbar-links:
   About me: "aboutme"
-  Research : "research"
+  Research:
+    - Publications: "research"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
