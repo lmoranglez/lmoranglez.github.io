@@ -22,7 +22,7 @@ author: Lucía Morán González
 navbar-links:
   About me: "aboutme"
   Research:
-    - Publications: "research"
+    - Publications: "publications"
     - Conferences: "conferences"
   Awards and Honors: "awardshonors"
   Resources:
